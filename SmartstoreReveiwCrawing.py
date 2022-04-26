@@ -6,7 +6,6 @@ from selenium.webdriver.common.by import By
 import time, random
 
 
-dsfsdf
 def chromeWebdriver():
     chrome_service = ChromeService(executable_path=ChromeDriverManager().install())
     options = Options()
