@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-inse
-=======
->>>>>>> 279172a678ff55c346f0a07cf0d9614bc29d1efb
+
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
 from selenium.webdriver.chrome.options import Options
