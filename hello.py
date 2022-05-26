@@ -1,3 +1,7 @@
+pip install selenium
+conda install selenium
+pip install bs4
+
 print("Hello World")
 
 from selenium import webdriver
